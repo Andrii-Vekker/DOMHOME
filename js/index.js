@@ -48,8 +48,8 @@
 // image.src = 'https://placeimg.com/640/480/tech';
 
 
-const text = document.querySelector(".article-text");
-console.log(text.textContent); // text inside p.article-text
+// const text = document.querySelector(".article-text");
+// console.log(text.textContent); // text inside p.article-text
 
-const title = document.querySelector(".article-title");
-title.textContent = 'Welcome to Bahamas! PETUH';
+// const title = document.querySelector(".article-title");
+// title.textContent = 'Welcome to Bahamas! PETUH';
